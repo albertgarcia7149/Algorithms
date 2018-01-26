@@ -1,7 +1,7 @@
 # Algorithms
 To do:
-Quicksort
-Merge sort
-Counting sort
-GSA
-closest pair of points
+Quicksort, 
+Merge sort, 
+Counting sort, 
+GSA, 
+Closest pair of points, 
